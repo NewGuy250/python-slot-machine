@@ -6,6 +6,6 @@ The program works by the following:
 3. Bet on the amount of lines 1 being the top line and counting downwards
 4. Bet the amount of money for each line
 5. Wheel is spun and shows results
-6. Redo step 1
+6. Redo step 2
 
 When you exit the program is displays the amount of money you ahve remaining.
